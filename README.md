@@ -7,7 +7,7 @@
 
 
 ## My Essential Plugins
-Here are the plugins that I installed for front-end development.
+Here are the plugins that I installed. I am a Front-End web developer and they are very useful to work a web project.
 
 - Side​Bar​ Enhancements - [Package Control](https://packagecontrol.io/packages/SideBarEnhancements), [GitHub](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 

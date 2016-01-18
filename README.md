@@ -35,8 +35,7 @@
 |  Terminal          |  cmd+shift+t   | ctrl+shift+t  |
 
 
-
-#### References
+## References
 - [Package Control](https://packagecontrol.io/packages/SideBarEnhancements)
 - [18 Essential Plugins](http://www.tablesgenerator.com/markdown_tables#)
 - [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables#)

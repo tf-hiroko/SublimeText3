@@ -21,7 +21,7 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 - [Syntax Highlighting for Sass](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass): [GitHub](https://github.com/P233/Syntax-highlighting-for-Sass) 
 
-- Terminal - [Package Control](https://packagecontrol.io/packages/Terminal), [GitHub](https://github.com/wbond/sublime_terminal)
+- [Terminal](https://packagecontrol.io/packages/Terminal) : [GitHub](https://github.com/wbond/sublime_terminal)
 
 ## How to delete plug-ins that you installed?
 1. Preferences -> Package Controll

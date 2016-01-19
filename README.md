@@ -9,7 +9,7 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 ## Essential Plugins
 
-- [Side​Bar​ Enhancements](https://packagecontrol.io/packages/SideBarEnhancements) - [<GitHub>](http://sublimecodeintel.github.io/SublimeCodeIntel/)
+- [Side​Bar​ Enhancements](https://packagecontrol.io/packages/SideBarEnhancements) - [GitHub](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
 - Sublime CodeIntel - [Package Control](https://packagecontrol.io/packages/SublimeCodeIntel), [GitHub](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 

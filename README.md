@@ -9,17 +9,17 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 ## Essential Plugins
 
-- [Side​Bar​ Enhancements](https://packagecontrol.io/packages/SideBarEnhancements) - [GitHub](http://sublimecodeintel.github.io/SublimeCodeIntel/)
+- [Side​Bar​ Enhancements](https://packagecontrol.io/packages/SideBarEnhancements): [GitHub](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 
-- Sublime CodeIntel - [Package Control](https://packagecontrol.io/packages/SublimeCodeIntel), [GitHub](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- [Sublime CodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel):  [GitHub](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 
-- Color Picker - [Package Control](https://packagecontrol.io/packages/ColorPick), [GitHub](https://github.com/weslly/ColorPicker)
+- [Color Picker](https://packagecontrol.io/packages/ColorPick): [GitHub](https://github.com/weslly/ColorPicker)
 
-- CSS Font Family - [Package Control](https://packagecontrol.io/packages/CSSFontFamily), [GitHub](https://github.com/lcdsantos/CSSFontFamily)
+- [CSS Font Family](https://packagecontrol.io/packages/CSSFontFamily): [GitHub](https://github.com/lcdsantos/CSSFontFamily)
 
-- Markdown Preview - [Package Control](https://packagecontrol.io/packages/Markdown%20Preview), [Tutorial](http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html)
+- [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview): [Tutorial](http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html)
 
-- Syntax Highlighting for Sass - [Package Control](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass), [GitHub](https://github.com/P233/Syntax-highlighting-for-Sass)
+- [Syntax Highlighting for Sass](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass): [GitHub](https://github.com/P233/Syntax-highlighting-for-Sass) 
 
 - Terminal - [Package Control](https://packagecontrol.io/packages/Terminal), [GitHub](https://github.com/wbond/sublime_terminal)
 

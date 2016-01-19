@@ -6,8 +6,7 @@
 3. Copy sublime text 3 script and pasted it into a console field.
 
 
-## Essential Plugins for Front-End developement
-Here are the plugins that I installed. 
+## Essential Plugins
 
 - Side​Bar​ Enhancements - [Package Control](https://packagecontrol.io/packages/SideBarEnhancements), [GitHub](http://sublimecodeintel.github.io/SublimeCodeIntel/)
 

@@ -1,4 +1,4 @@
-# Subline Text 3 Plugins
+# Sublime Text 3 Plugins
 I am Front-End web developer and am using Sublime text in a web development project. Here are plug-ins that I installed in my Sublime Text3.
 
 ## Installing Package Control

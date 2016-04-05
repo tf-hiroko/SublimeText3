@@ -23,6 +23,12 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 - [Terminal](https://packagecontrol.io/packages/Terminal) : [GitHub](https://github.com/wbond/sublime_terminal)
 
+## How to install plug-ins?
+1. Tool-> Command Palette. (Ctrl + Shift + p)
+2. Type "Package Control" and select "Package Control:Install" and then hit enter.
+3. Search a plug-ins name that you want to install.
+
+
 ## How to delete plug-ins that you installed?
 1. Preferences -> Package Controll
 2. Type "remove" and select `Package Controll: Remove Package`

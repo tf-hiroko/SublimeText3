@@ -43,7 +43,7 @@ I am Front-End web developer and am using Sublime text in a web development proj
 |  Package Control   |  cmd+Shift+p   | ctrl+shift+p  |
 
 
-
+[!screenshot]()
 
 ## References
 - [Package Control](https://packagecontrol.io/packages/SideBarEnhancements)

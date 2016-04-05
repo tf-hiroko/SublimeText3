@@ -40,6 +40,9 @@ I am Front-End web developer and am using Sublime text in a web development proj
 |  Color Picker      |  cmd+shift+c |  ctl+shift+c  |
 |  Markdown Preview  |   |  alt+m |
 |  Terminal          |  cmd+shift+t   | ctrl+shift+t  |
+|  Package Control   |  cmd+Shift+P   | ctrl+shift+p  |
+
+
 
 
 ## References

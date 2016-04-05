@@ -42,7 +42,7 @@ I am Front-End web developer and am using Sublime text in a web development proj
 |  Package Control   |  cmd+Shift+p   | ctrl+shift+p  |
 
 
-[!screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_cssFontFamily-ColorPicker.png)
+![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_cssFontFamily-ColorPicker.png)
 
 
 ## References

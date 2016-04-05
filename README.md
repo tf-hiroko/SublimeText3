@@ -13,7 +13,7 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 - [Sublime CodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel):  [GitHub](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 
-- [Color Picker](https://packagecontrol.io/packages/ColorPick): [GitHub](https://github.com/weslly/ColorPicker)
+- [Color Picker](https://packagecontrol.io/packages/ColorPicker)
 
 - [CSS Font Family](https://packagecontrol.io/packages/CSSFontFamily): [GitHub](https://github.com/lcdsantos/CSSFontFamily)
 

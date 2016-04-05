@@ -43,6 +43,8 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 
 ![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_cssFontFamily-ColorPicker.png)
+
+Markdown Preview key binding
 ![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screen-MarkdownPreview-key-binding.png)
 
 

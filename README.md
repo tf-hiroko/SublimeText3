@@ -28,7 +28,6 @@ I am Front-End web developer and am using Sublime text in a web development proj
 2. Type "Package Control" and select "Package Control:Install" and then hit enter.
 3. Search a plug-ins name that you want to install.
 
-
 ## How to delete plug-ins that you installed?
 1. Preferences -> Package Controll
 2. Type "remove" and select `Package Controll: Remove Package`
@@ -43,7 +42,8 @@ I am Front-End web developer and am using Sublime text in a web development proj
 |  Package Control   |  cmd+Shift+p   | ctrl+shift+p  |
 
 
-[!screenshot]()
+[!screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_cssFontFamily-ColorPicker.png)
+
 
 ## References
 - [Package Control](https://packagecontrol.io/packages/SideBarEnhancements)

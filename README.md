@@ -42,9 +42,14 @@ I am Front-End web developer and am using Sublime text in a web development proj
 |  Package Control   |  cmd+Shift+p   | ctrl+shift+p  |
 
 
-![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_cssFontFamily-ColorPicker.png)
+## Screenshot
+**CSS Font Family plug-in**
+![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_cssFontFamily.png)
 
-Markdown Preview key binding
+**Usage of Color Picker plug-in**
+![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screenshot_ColorPicker.png)
+
+**Markdown Preview key binding**
 ![screenshot](https://github.com/hirokoymj/SublimeText3/blob/master/screen-MarkdownPreview-key-binding.png)
 
 

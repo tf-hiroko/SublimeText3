@@ -23,6 +23,9 @@ I am Front-End web developer and am using Sublime text in a web development proj
 
 - [Terminal](https://packagecontrol.io/packages/Terminal) : [GitHub](https://github.com/wbond/sublime_terminal)
 
+-[Bootstrap 3 Snippets](https://packagecontrol.io/packages/Bootstrap%203%20Snippets) : [GitHub](https://github.com/JasonMortonNZ/bs3-sublime-plugin) 
+
+
 ## How to install plug-ins?
 1. Tool-> Command Palette. (Ctrl + Shift + p)
 2. Type "Package Control" and select "Package Control:Install" and then hit enter.
